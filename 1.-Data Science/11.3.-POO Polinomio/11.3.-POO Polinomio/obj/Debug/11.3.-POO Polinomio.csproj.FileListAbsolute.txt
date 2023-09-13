@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\bin\Debug\11.3.-POO Polinomio.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\bin\Debug\11.3.-POO Polinomio.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\bin\Debug\11.3.-POO Polinomio.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\obj\Debug\11.3.-POO Polinomio.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\obj\Debug\11.3.-POO Polinomio.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\obj\Debug\11.3.-POO Polinomio.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.3.-POO Polinomio\11.3.-POO Polinomio\obj\Debug\11.3.-POO Polinomio.pdb

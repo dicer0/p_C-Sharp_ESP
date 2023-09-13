@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\bin\Debug\8.-Diccionarios.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\bin\Debug\8.-Diccionarios.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\bin\Debug\8.-Diccionarios.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\obj\Debug\8.-Diccionarios.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\obj\Debug\8.-Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\obj\Debug\8.-Diccionarios.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\8.-Diccionarios\8.-Diccionarios\obj\Debug\8.-Diccionarios.pdb

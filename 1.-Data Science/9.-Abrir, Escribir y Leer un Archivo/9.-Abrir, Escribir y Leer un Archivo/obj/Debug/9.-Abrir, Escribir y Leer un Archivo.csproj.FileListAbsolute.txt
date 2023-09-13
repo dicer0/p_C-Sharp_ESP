@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.pdb
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.exe.config
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.exe
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\bin\Debug\9.-Abrir, Escribir y Leer un Archivo.pdb
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.exe
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\9.-Abrir, Escribir y Leer un Archivo\9.-Abrir, Escribir y Leer un Archivo\obj\Debug\9.-Abrir, Escribir y Leer un Archivo.pdb

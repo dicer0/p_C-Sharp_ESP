@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.-Graficación Matricial Múltiple", "10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple.csproj", "{46C8211A-6663-4669-A094-DB8BFCC7EDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C8211A-6663-4669-A094-DB8BFCC7EDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C8211A-6663-4669-A094-DB8BFCC7EDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C8211A-6663-4669-A094-DB8BFCC7EDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C8211A-6663-4669-A094-DB8BFCC7EDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FC26CF-7248-4306-85EB-89CEFD44BDBF}
+	EndGlobalSection
+EndGlobal

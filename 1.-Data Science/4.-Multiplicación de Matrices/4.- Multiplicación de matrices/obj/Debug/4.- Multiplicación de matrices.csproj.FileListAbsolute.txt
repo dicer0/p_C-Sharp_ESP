@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.exe.config
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.exe
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.pdb
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.exe
+C:\Users\diego\source\repos\4.- Multiplicación de matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\bin\Debug\4.- Multiplicación de matrices.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\4.- Multiplicación de Matrices\4.- Multiplicación de matrices\obj\Debug\4.- Multiplicación de matrices.pdb

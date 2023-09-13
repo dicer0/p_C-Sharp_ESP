@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\bin\Debug\7.1.-Área Triángulo con Vértices.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\bin\Debug\7.1.-Área Triángulo con Vértices.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\bin\Debug\7.1.-Área Triángulo con Vértices.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\obj\Debug\7.1.-Área Triángulo con Vértices.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\obj\Debug\7.1.-Área Triángulo con Vértices.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\obj\Debug\7.1.-Área Triángulo con Vértices.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.1.-Área Triángulo con Vértices\7.1.-Área Triángulo con Vértices\obj\Debug\7.1.-Área Triángulo con Vértices.pdb

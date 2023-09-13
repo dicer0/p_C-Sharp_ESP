@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\bin\Debug\6.-Funciones en C_Sharp.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\bin\Debug\6.-Funciones en C_Sharp.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\bin\Debug\6.-Funciones en C_Sharp.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\obj\Debug\6.-Funciones en C_Sharp.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\obj\Debug\6.-Funciones en C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\obj\Debug\6.-Funciones en C_Sharp.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\6.-Funciones en C_Sharp\6.-Funciones en C_Sharp\obj\Debug\6.-Funciones en C_Sharp.pdb

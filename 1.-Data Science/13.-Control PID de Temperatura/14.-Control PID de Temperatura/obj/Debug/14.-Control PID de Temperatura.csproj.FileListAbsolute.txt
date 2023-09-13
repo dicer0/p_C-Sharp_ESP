@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\14.-Control PID de Temperatura.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\_14._Control_PID_de_Temperatura.PID_Controller.resources
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\_14._Control_PID_de_Temperatura.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\14.-Control PID de Temperatura.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\14.-Control PID de Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\bin\Debug\14.-Control PID de Temperatura.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\bin\Debug\14.-Control PID de Temperatura.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\bin\Debug\14.-Control PID de Temperatura.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\14.-Control PID de Temperatura.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\14.-Control PID de Temperatura\14.-Control PID de Temperatura\obj\Debug\14.-Control PID de Temperatura.pdb

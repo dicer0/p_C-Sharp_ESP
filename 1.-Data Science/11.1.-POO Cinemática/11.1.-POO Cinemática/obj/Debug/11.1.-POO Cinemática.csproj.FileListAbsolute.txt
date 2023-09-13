@@ -1,0 +1,7 @@
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\bin\Debug\11.1.-POO Cinemática.exe.config
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\bin\Debug\11.1.-POO Cinemática.exe
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\bin\Debug\11.1.-POO Cinemática.pdb
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\obj\Debug\11.1.-POO Cinemática.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\obj\Debug\11.1.-POO Cinemática.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\obj\Debug\11.1.-POO Cinemática.exe
+C:\Users\diego\source\repos\11.1.-POO Cinemática\11.1.-POO Cinemática\obj\Debug\11.1.-POO Cinemática.pdb

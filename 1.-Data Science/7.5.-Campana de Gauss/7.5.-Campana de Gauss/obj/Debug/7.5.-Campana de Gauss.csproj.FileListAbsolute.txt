@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\bin\Debug\7.5.-Campana de Gauss.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\bin\Debug\7.5.-Campana de Gauss.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\bin\Debug\7.5.-Campana de Gauss.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\obj\Debug\7.5.-Campana de Gauss.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\obj\Debug\7.5.-Campana de Gauss.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\obj\Debug\7.5.-Campana de Gauss.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.5.-Campana de Gauss\7.5.-Campana de Gauss\obj\Debug\7.5.-Campana de Gauss.pdb

@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\bin\Debug\7.2.-Longitud de una Ruta.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\bin\Debug\7.2.-Longitud de una Ruta.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\bin\Debug\7.2.-Longitud de una Ruta.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\obj\Debug\7.2.-Longitud de una Ruta.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\obj\Debug\7.2.-Longitud de una Ruta.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\obj\Debug\7.2.-Longitud de una Ruta.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.2.-Longitud de una Ruta\7.2.-Longitud de una Ruta\obj\Debug\7.2.-Longitud de una Ruta.pdb

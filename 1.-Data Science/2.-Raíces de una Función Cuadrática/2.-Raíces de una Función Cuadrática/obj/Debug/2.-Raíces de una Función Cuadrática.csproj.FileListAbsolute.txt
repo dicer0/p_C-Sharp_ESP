@@ -1,0 +1,7 @@
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\bin\Debug\2.-Raíces de una Función Cuadrática.exe.config
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\bin\Debug\2.-Raíces de una Función Cuadrática.exe
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\bin\Debug\2.-Raíces de una Función Cuadrática.pdb
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\obj\Debug\2.-Raíces de una Función Cuadrática.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\obj\Debug\2.-Raíces de una Función Cuadrática.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\obj\Debug\2.-Raíces de una Función Cuadrática.exe
+C:\Users\diego\source\repos\2.-Raíces de una Función Cuadrática\2.-Raíces de una Función Cuadrática\obj\Debug\2.-Raíces de una Función Cuadrática.pdb

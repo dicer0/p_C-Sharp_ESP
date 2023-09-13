@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\bin\Debug\3.-Factorial de un Número n.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\bin\Debug\3.-Factorial de un Número n.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\bin\Debug\3.-Factorial de un Número n.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\obj\Debug\3.-Factorial de un Número n.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\obj\Debug\3.-Factorial de un Número n.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\obj\Debug\3.-Factorial de un Número n.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\3.-Factorial de un Número n\3.-Factorial de un Número n\obj\Debug\3.-Factorial de un Número n.pdb

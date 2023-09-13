@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\bin\Debug\7.3.-Aproximación de Pi.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\bin\Debug\7.3.-Aproximación de Pi.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\bin\Debug\7.3.-Aproximación de Pi.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\obj\Debug\7.3.-Aproximación de Pi.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\obj\Debug\7.3.-Aproximación de Pi.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\obj\Debug\7.3.-Aproximación de Pi.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.3.-Aproximación de Pi\7.3.-Aproximación de Pi\obj\Debug\7.3.-Aproximación de Pi.pdb

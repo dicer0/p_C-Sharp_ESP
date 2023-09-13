@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\bin\Debug\11.2.-POO Cuenta.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\bin\Debug\11.2.-POO Cuenta.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\bin\Debug\11.2.-POO Cuenta.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\obj\Debug\11.2.-POO Cuenta.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\obj\Debug\11.2.-POO Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\obj\Debug\11.2.-POO Cuenta.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\11.2.-POO Cuenta\11.2.-POO Cuenta\obj\Debug\11.2.-POO Cuenta.pdb

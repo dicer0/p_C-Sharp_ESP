@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\bin\Debug\7.4.-Series de Fourier - Escalón.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\bin\Debug\7.4.-Series de Fourier - Escalón.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\bin\Debug\7.4.-Series de Fourier - Escalón.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\obj\Debug\7.4.-Series de Fourier - Escalón.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\obj\Debug\7.4.-Series de Fourier - Escalón.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\obj\Debug\7.4.-Series de Fourier - Escalón.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.4.-Series de Fourier - Escalón\7.4.-Series de Fourier - Escalón\obj\Debug\7.4.-Series de Fourier - Escalón.pdb

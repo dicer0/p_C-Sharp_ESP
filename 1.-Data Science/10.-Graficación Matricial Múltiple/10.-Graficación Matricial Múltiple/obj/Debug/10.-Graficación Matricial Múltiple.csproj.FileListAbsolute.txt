@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\bin\Debug\10.-Graficación Matricial Múltiple.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\bin\Debug\10.-Graficación Matricial Múltiple.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\bin\Debug\10.-Graficación Matricial Múltiple.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\10.-Graficación Matricial Múltiple.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\_10._Graficación_Matricial_Múltiple.Form1.resources
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\_10._Graficación_Matricial_Múltiple.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\10.-Graficación Matricial Múltiple.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\10.-Graficación Matricial Múltiple.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\10.-Graficación Matricial Múltiple.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\10.-Graficación Matricial Múltiple\10.-Graficación Matricial Múltiple\obj\Debug\10.-Graficación Matricial Múltiple.pdb

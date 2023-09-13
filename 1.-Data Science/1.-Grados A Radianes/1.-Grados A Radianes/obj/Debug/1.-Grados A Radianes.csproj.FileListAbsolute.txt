@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.exe.config
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.exe
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.pdb
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.exe
+C:\Users\diego\source\repos\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\bin\Debug\1.-Grados A Radianes.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\1.-Grados A Radianes\1.-Grados A Radianes\obj\Debug\1.-Grados A Radianes.pdb

@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.pdb
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.exe.config
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.exe
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\bin\Debug\5.-Conteo de Caracteres Repetidos.pdb
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.exe
+C:\Users\diego\OneDrive\Documents\MechaBible\p_C#\1.-Data Science\5.-Conteo de Caracteres Repetidos\5.-Conteo de Caracteres Repetidos\obj\Debug\5.-Conteo de Caracteres Repetidos.pdb

@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\bin\Debug\7.7.-Derivada Diferencial y Testing.exe.config
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\bin\Debug\7.7.-Derivada Diferencial y Testing.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\bin\Debug\7.7.-Derivada Diferencial y Testing.pdb
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\bin\Debug\nunit.framework.dll
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\bin\Debug\nunit.framework.xml
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\obj\Debug\7.7.-Derivada Diferencial y Testing.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\obj\Debug\7.7.-Derivada Diferencial y Testing.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\obj\Debug\7.7.-Derivada Diferencial y Testing.csproj.CopyComplete
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\obj\Debug\7.7.-Derivada Diferencial y Testing.exe
+C:\Users\diego\OneDrive\Documents\Aprendiendo\C#\1.-Instrumentación Virtual\7.7.-Derivada Diferencial y Testing\7.7.-Derivada Diferencial y Testing\obj\Debug\7.7.-Derivada Diferencial y Testing.pdb
